@@ -13,7 +13,7 @@ I'm a passionate and experienced iOS developer with over 9 years of hands-on exp
 - **Frameworks:** UIKit, Combine, CoreData, CoreAnimation
 - **Networking:** URLSession, Alamofire, Codable
 - **Tools:** Xcode, Git, Firebase, Fastlane, Cocoapods, SPM
-- **Testing:** XCTest
+- **Testing:** XCTest, Nimble, Snapshot/UI/Unit Tests
 - **Security:** OAuth 2.0, SSL Pinning, Keychain, Data Encryption
 - **Performance:** GCD, Instruments, Operation Queues
 
