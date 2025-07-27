@@ -31,7 +31,8 @@ Check out my detailed [LinkedIn Profile](https://www.linkedin.com/in/robin-humne
 
 ## 🚀 Projects
 
-- **Fitternity**: Fitness & lifestyle booking app – [Android Link](https://play.google.com/store/apps/details?id=com.fitternity.android)
+- **ADIB Mobile Banking**: Fitness & lifestyle booking app – [iOS Link](https://apps.apple.com/in/app/adib-mobile-banking/id1128180440)
+- **Fitternity**: Fitness & lifestyle booking app – [iOS Link](https://apple.co/44vACqk)
 - **Cult.fit**: Health & wellness app – [Website](https://www.cult.fit)
 - **Faredown Travels**: Travel and itinerary app
 
